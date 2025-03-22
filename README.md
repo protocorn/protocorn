@@ -141,7 +141,7 @@ AI & Machine Learning              Web & Cloud                    Data Engineeri
 
 ## 🎓 Education
 
-**University of Maryland, College Park** | GPA: 3.8/4.0  
+**University of Maryland, College Park**
 Master of Science in Data Science  
 *August 2024 – May 2026*
 
@@ -154,7 +154,7 @@ Bachelor of Engineering in Computer Engineering
 - **Email:** [chordiasahil24@gmail.com](mailto:chordiasahil24@gmail.com)
 - **Phone:** [(240) 610-1453](tel:2406101453)
 - **LinkedIn:** [linkedin.com/in/sahil-chordia](https://www.linkedin.com/in/sahil-chordia/)
-- **Website:** [protocorn.github.io](https://protocorn.github.io/)
+- **Medium:** [protocorn.github.io](https://www.medium.com/chordiasahil24)
 - **Location:** College Park, MD
 
 ![Profile Views](https://komarev.com/ghpvc/?username=protocorn&color=brightgreen)
