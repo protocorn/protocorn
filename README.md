@@ -1,66 +1,65 @@
-# Hi, I'm Sahil Chordia 👋
+Sahil Chordia | AI & Automation Engineer 🚀
+Show Image
+Show Image
+Show Image
+Show Image
 
-[![Website](https://img.shields.io/badge/Website-Visit-blue)](https://protocorn.github.io/)
-[![Mimikree](https://img.shields.io/badge/Mimikree-Demo-orange)](https://mimikree.com)
-[![Smart Gmail Assistant](https://img.shields.io/badge/Smart_Gmail_Assistant-Extension-red)](Smart-Gmail-Assistant)
-[![Automatic Infographic Generation](https://img.shields.io/badge/Automatic_Infographic_Generation-Repo-yellow)](automatic-infographics-system-for-medical-paper)
+Computer Science student at University of Maryland, specializing in Generative AI, LLMs, and Web3 technologies.
 
+💡 About Me
+Passionate AI engineer and researcher building tools that make technology more accessible and personalized. My work spans from RAG pipelines and serverless architectures to Chrome extensions and Web3 applications.
 
-A student at UMD passionate about Generative AI, machine learning, and automation.
+🔭 Currently developing enterprise-grade AI solutions at UMD
+🌱 Exploring Large Language Model fine-tuning and multimodal systems
+🤝 Open to collaborations on AI, automation, and Web3 projects
+📚 Researching better ways to interpret and visualize complex information
+🎯 Goal: Create AI tools that feel truly personal and intuitive
 
-## About Me
+🏆 Featured Projects
+Mimikree - Personalized AI Assistant
+Show Image
+Show Image
+Built an AI platform that transforms user data (social media, PDFs, images) into personalized AI models. Implemented a RAG pipeline with Pinecone vectors and Gemini 1.5 Pro for dynamic document retrieval, reducing query latency by 40% through serverless architecture optimization.
+pythonCopy# Technologies: Python, Pinecone, Gemini 1.5 Pro, Next.js, Firebase
+Smart Gmail Assistant - AI Email Management
+Show Image
+Show Image
+Developed a Chrome extension that integrates advanced AI capabilities with Gmail. Features include context-aware email generation, thread summarization, and semantic highlighting—all powered by Google's Prompt API with an intelligent caching layer that improves response times by 65%.
+javascriptCopy// Technologies: JavaScript, Chrome Extensions API, Google Cloud AI, React
+Medical Paper Infographic Generator
+Show Image
+Show Image
+Led a research team building an AI system that automatically generates visual infographics from medical research papers. Reduced paper reading time by 64% using a pipeline of T5 and BART LLMs for extraction and TextRank for importance scoring. Deployed with a React frontend for seamless researcher interaction.
+pythonCopy# Technologies: T5, BART, TextRank, PyTorch, React, D3.js
+🧰 More Projects
+Web3 Crowdfunding Platform
+Decentralized fundraising application built on Ethereum that enables transparent campaign creation and contribution tracking with smart contracts.
+solidityCopy// Technologies: Solidity, Ethereum, React, Hardhat, ethers.js
+Real-Time Chat Application
+End-to-end encrypted messaging platform with real-time updates, user presence indicators, and file sharing capabilities.
+javascriptCopy// Technologies: Socket.io, Express, MongoDB, JWT Authentication
+Portfolio Website
+Interactive personal website showcasing projects and skills with responsive design and dynamic content loading.
+javascriptCopy// Technologies: HTML5, CSS3, JavaScript, Three.js
+💻 Technical Skills
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+📊 GitHub Stats
+<a href="https://github.com/protocorn">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=protocorn&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=protocorn&layout=compact&langs_count=7&theme=radical"/>
+</a>
+Show Image
+🔍 Find Me Around the Web
 
-I’m Sahil Chordia, and I’m really into Generative AI, machine learning, and automation. I love tackling problems and finding ways to use these technologies to make things better.
+Sharing insights on Medium
+Solving problems on LeetCode
+Contributing to open source on GitHub
 
-- 🔭 I’m currently working on cool AI and automation projects.
-- 🌱 I’m always learning more about machine learning and web3.
-- 👯 I’m looking to collaborate on innovative projects.
-- 💬 Ask me about AI, automation, and web3 development!
-- 📫 How to reach me: chordiasahil24@gmail.com
-- 😄 Pronouns: He/Him
+Show Image
 
-## Projects
-
-### Mimikree - Personalized AI Assistant
-*AI-driven web app that converts user data (Social Media, PDFs, Images) into personalized AI models. Implemented a RAG pipeline using Pinecone and Gemini 1.5 Pro for dynamic document retrieval and AI-generated replies. Scalable serverless architecture reduces query latency by 40%.*
-[Live Demo](https://mimikree.com)
-
-### Smart Gmail Assistant
-*An AI-powered Chrome extension integrating Gmail with advanced AI features. Email generation, context-aware replies, thread summarization, and keyword highlighting using Google Prompt, Summarizer, and Writer APIs. Caching mechanism reduces latency and optimizes performance.*
-[Extension Link](Smart-Gmail-Assistant)
-
-### Automatic Infographic Generation for Medical Papers
-*Led a 4-member research team developing an AI-powered infographic generation system in collaboration with Data Science and Wizards Pvt Ltd. Reduced medical paper reading time by 64% using LLMs (T5 & BART) and graph-based models (TextRank). Achieved 82% accuracy in segmenting Abstract, Results, and Conclusion sections.*
-[GitHub Repo](automatic-infographics-system-for-medical-paper)
-
-### Online Chatting Application
-*Brief description of the project. What does it do? What technologies did you use?*
-[Link to the Repo](https://github.com/protocorn/Online-Chatting-Application)
-
-### protocorn.github.io
-*Brief description of the project. What does it do? What technologies did you use?*
-[Link to the Repo](https://github.com/protocorn/protocorn.github.io)
-
-### Crowdfunding Web3.0
-*Brief description of the project. What does it do? What technologies did you use?*
-[Link to the Repo](https://github.com/protocorn/Crowdfunding-web3.0)
-
-## Stats
-
-Here you can add GitHub stats, like total commits, lines of code, etc.  There are cool services for generating these, like:
-
-*   **GitHub Readme Stats**:  `[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=protocorn&theme=dark)](https://git.io/streak-stats)`
-
-## Languages Used
-
-*   Python
-*   JavaScript
-*   Solidity
-*   HTML
-*   CSS
-
-## Visitor Count
-
-You can use a service like [https://visitor-badge.laobi.icu/](https://visitor-badge.laobi.icu/) to track visitors. It's pretty straightforward to add.
-
-[![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=protocorn.github.io)]()
+<p align="center">✨ <i>Let's build the future with AI</i> ✨</p>
