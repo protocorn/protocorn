@@ -100,11 +100,8 @@ AI/ML Engineer with hands-on experience in building and deploying large-scale AI
               Mimikree
             </a>
           </h3>
-          <a href="https://mimikree.com" target="_blank">
+          <a href="https://www.mimikree.com" target="_blank">
             <img src="https://img.shields.io/badge/Live_Demo-Visit-ff69b4?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-          </a>
-          <a href="https://github.com/protocorn/mimikree" target="_blank">
-            <img src="https://img.shields.io/badge/Source_Code-GitHub-blue?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
           </a>
           <br><br>
           <p align="center">
@@ -125,8 +122,9 @@ AI/ML Engineer with hands-on experience in building and deploying large-scale AI
             <img src="https://img.shields.io/badge/LangChain-3776AB?style=flat-square&logo=chainlink&logoColor=white" />
             <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" />
             <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white" />
-            <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-            <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+            <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+            <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+            <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
           </p>
         </div>
       </td>
@@ -137,7 +135,7 @@ AI/ML Engineer with hands-on experience in building and deploying large-scale AI
               Smart Gmail Assistant
             </a>
           </h3>
-          <a href="https://github.com/protocorn/Smart-Gmail-Assistant" target="_blank">
+          <a href="https://chromewebstore.google.com/detail/smart-gmail-assistant/ieccgcgkaihnjkocfaobaamapolhjckb?hl=en&pli=1" target="_blank">
             <img src="https://img.shields.io/badge/Extension-Chrome_Store-red?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Chrome Store" />
           </a>
           <a href="https://github.com/protocorn/Smart-Gmail-Assistant" target="_blank">
@@ -160,7 +158,7 @@ AI/ML Engineer with hands-on experience in building and deploying large-scale AI
           <p><strong>Technologies:</strong> 
             <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
             <img src="https://img.shields.io/badge/Chrome_Extensions-4285F4?style=flat-square&logo=google-chrome&logoColor=white" />
-            <img src="https://img.shields.io/badge/Google_AI-4285F4?style=flat-square&logo=google&logoColor=white" />
+            <img src="https://img.shields.io/badge/Google_API-4285F4?style=flat-square&logo=google&logoColor=white" />
             <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
           </p>
         </div>
@@ -251,14 +249,14 @@ AI/ML Engineer with hands-on experience in building and deploying large-scale AI
     <table>
       <tr>
         <td>
-          <a href="https://github.com/protocorn/Online-Chatting-Application" target="_blank">
+          <a href="https://github.com/protocorn/Online-Chatting-App" target="_blank">
             <img src="https://img.shields.io/badge/Online_Chatting_Application-4CAF50?style=for-the-badge&logo=messenger&logoColor=white" alt="Chat App" />
           </a>
           <p>Real-time messaging platform with user authentication, private/group messaging, encryption, and media sharing.</p>
           <p>
             <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
             <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-            <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+            <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
           </p>
         </td>
         <td>
@@ -310,18 +308,8 @@ AI/ML Engineer with hands-on experience in building and deploying large-scale AI
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/dZCeVfZK1HvzXDvPq1/giphy.gif" width="25"> Publications
 
-<div align="center">
-  <a href="https://link.springer.com/chapter/10.1007/978-981-99-3043-5_23" target="_blank">
-    <img src="https://img.shields.io/badge/Research_Paper-Cross_Domain_Sentiment_Analysis-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
-  </a>
-  <p>Chordia, S. et al. "Cross-Domain Sentiment Analysis: An Extensive Study of Machine Learning and Deep Learning Models, Datasets, and Preprocessing Techniques for Predictive Performance" Congress on Smart Computing Technologies (CSCT 2023).</p>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/j5hWF2V3RlNGItTkTB/giphy.gif" width="25"> Education
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2l3a3hvaGVxN25icWdqeDI1NnpwY2k5ZHA1ZGtycHp4cmV4bTQ0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f6IziAx7ToDfoKUoGd/giphy.gif" width="25"> Education
 
 <div align="center">
   <table border="0">
