@@ -118,6 +118,7 @@ AI/ML Engineer with hands-on experience in building and deploying large-scale AI
             <li>Multi-modal data support with seamless content processing</li>
           </ul>
           <p><strong>Technologies:</strong> 
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
             <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
             <img src="https://img.shields.io/badge/LangChain-3776AB?style=flat-square&logo=chainlink&logoColor=white" />
             <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" />
@@ -131,14 +132,14 @@ AI/ML Engineer with hands-on experience in building and deploying large-scale AI
       <td width="50%">
         <div align="center">
           <h3>
-            <a href="https://github.com/protocorn/Smart-Gmail-Assistant" target="_blank">
+            <a href="https://github.com/protocorn/Smart-AI-Assistant---Chrome-Extension" target="_blank">
               Smart Gmail Assistant
             </a>
           </h3>
           <a href="https://chromewebstore.google.com/detail/smart-gmail-assistant/ieccgcgkaihnjkocfaobaamapolhjckb?hl=en&pli=1" target="_blank">
             <img src="https://img.shields.io/badge/Extension-Chrome_Store-red?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Chrome Store" />
           </a>
-          <a href="https://github.com/protocorn/Smart-Gmail-Assistant" target="_blank">
+          <a href="https://github.com/protocorn/Smart-AI-Assistant---Chrome-Extension" target="_blank">
             <img src="https://img.shields.io/badge/Source_Code-GitHub-blue?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
           </a>
           <br><br>
