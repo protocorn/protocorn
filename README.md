@@ -82,9 +82,6 @@ AI & Machine Learning              Web & Cloud                    Data Engineeri
           <a href="https://github.com/protocorn/automatic-infographics-system-for-medical-paper" target="_blank">
             <img src="https://img.shields.io/badge/Source_Code-GitHub-blue" alt="Source Code" />
           </a>
-          <a href="https://github.com/protocorn/automatic-infographics-system-for-medical-paper" target="_blank">
-            <img src="https://img.shields.io/badge/Research-Project-yellow" alt="Research Project" />
-          </a>
         </div>
         <p><strong>Medical Research Visualization | Industry Collaboration</strong></p>
         <p>
@@ -96,7 +93,7 @@ AI & Machine Learning              Web & Cloud                    Data Engineeri
           <li>90% accurate extraction of figures, titles, and captions</li>
           <li>Automated visualization of key findings and relationships</li>
         </ul>
-        <p><strong>Technologies:</strong> Python, T5, BART, TextRank, LSTM, D3.js, Flask</p>
+        <p><strong>Technologies:</strong> Python, Django, T5, BART, TextRank, LSTM</p>
       </td>
       <td width="50%">
         <h3 align="center">Crowdfunding Web3.0</h3>
@@ -154,7 +151,7 @@ Bachelor of Engineering in Computer Engineering
 - **Email:** [chordiasahil24@gmail.com](mailto:chordiasahil24@gmail.com)
 - **Phone:** [(240) 610-1453](tel:2406101453)
 - **LinkedIn:** [linkedin.com/in/sahil-chordia](https://www.linkedin.com/in/sahil-chordia/)
-- **Medium:** [protocorn.github.io](https://www.medium.com/chordiasahil24)
+- **Medium:** [medium/chordiasahil24](https://www.medium.com/chordiasahil24)
 - **Location:** College Park, MD
 
 ![Profile Views](https://komarev.com/ghpvc/?username=protocorn&color=brightgreen)
