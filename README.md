@@ -1,65 +1,77 @@
-Sahil Chordia | AI & Automation Engineer 🚀
-Show Image
-Show Image
-Show Image
-Show Image
+# Sahil Chordia | AI & Machine Learning Engineer
 
-Computer Science student at University of Maryland, specializing in Generative AI, LLMs, and Web3 technologies.
+[![Website](https://img.shields.io/badge/Website-Visit-blue)](https://protocorn.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5)](https://www.linkedin.com/in/sahil-chordia/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717)](https://github.com/protocorn)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836)](mailto:chordiasahil24@gmail.com)
 
-💡 About Me
-Passionate AI engineer and researcher building tools that make technology more accessible and personalized. My work spans from RAG pipelines and serverless architectures to Chrome extensions and Web3 applications.
+## 👨‍💻 About Me
 
-🔭 Currently developing enterprise-grade AI solutions at UMD
-🌱 Exploring Large Language Model fine-tuning and multimodal systems
-🤝 Open to collaborations on AI, automation, and Web3 projects
-📚 Researching better ways to interpret and visualize complex information
-🎯 Goal: Create AI tools that feel truly personal and intuitive
+Data Science graduate student at University of Maryland, College Park with expertise in Generative AI, Machine Learning, and Web3 technologies. Passionate about building intelligent systems that solve real-world problems through innovative approaches to AI and automation.
 
-🏆 Featured Projects
-Mimikree - Personalized AI Assistant
-Show Image
-Show Image
-Built an AI platform that transforms user data (social media, PDFs, images) into personalized AI models. Implemented a RAG pipeline with Pinecone vectors and Gemini 1.5 Pro for dynamic document retrieval, reducing query latency by 40% through serverless architecture optimization.
-pythonCopy# Technologies: Python, Pinecone, Gemini 1.5 Pro, Next.js, Firebase
-Smart Gmail Assistant - AI Email Management
-Show Image
-Show Image
-Developed a Chrome extension that integrates advanced AI capabilities with Gmail. Features include context-aware email generation, thread summarization, and semantic highlighting—all powered by Google's Prompt API with an intelligent caching layer that improves response times by 65%.
-javascriptCopy// Technologies: JavaScript, Chrome Extensions API, Google Cloud AI, React
-Medical Paper Infographic Generator
-Show Image
-Show Image
-Led a research team building an AI system that automatically generates visual infographics from medical research papers. Reduced paper reading time by 64% using a pipeline of T5 and BART LLMs for extraction and TextRank for importance scoring. Deployed with a React frontend for seamless researcher interaction.
-pythonCopy# Technologies: T5, BART, TextRank, PyTorch, React, D3.js
-🧰 More Projects
-Web3 Crowdfunding Platform
-Decentralized fundraising application built on Ethereum that enables transparent campaign creation and contribution tracking with smart contracts.
-solidityCopy// Technologies: Solidity, Ethereum, React, Hardhat, ethers.js
-Real-Time Chat Application
-End-to-end encrypted messaging platform with real-time updates, user presence indicators, and file sharing capabilities.
-javascriptCopy// Technologies: Socket.io, Express, MongoDB, JWT Authentication
-Portfolio Website
-Interactive personal website showcasing projects and skills with responsive design and dynamic content loading.
-javascriptCopy// Technologies: HTML5, CSS3, JavaScript, Three.js
-💻 Technical Skills
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-📊 GitHub Stats
-<a href="https://github.com/protocorn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=protocorn&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=protocorn&layout=compact&langs_count=7&theme=radical"/>
-</a>
-Show Image
-🔍 Find Me Around the Web
+- 🔭 Currently building AI-powered applications that transform content generation and information retrieval
+- 🌱 Exploring the frontiers of LLMs, RAG architectures, and multi-modal AI systems
+- 🚀 Seeking opportunities in AI Research, Generative AI implementation, and AI product development
+- ⚡ Fun fact: When I'm not coding, I enjoy exploring emerging technologies like AR/VR and blockchain
 
-Sharing insights on Medium
-Solving problems on LeetCode
-Contributing to open source on GitHub
+## 🛠️ Skills
 
-Show Image
+```
+AI & Machine Learning    Web & Mobile Development    Data Engineering
+├── Generative AI        ├── JavaScript/React.js     ├── SQL/NoSQL Databases
+├── RAG Systems          ├── Node.js                 ├── Data Mining
+├── LLMs/NLP             ├── HTML/CSS                ├── ETL Pipelines
+├── PyTorch/TensorFlow   ├── Android Development     ├── Cloud Platforms
+└── Computer Vision      └── Responsive Design       └── Big Data Analytics
+```
 
-<p align="center">✨ <i>Let's build the future with AI</i> ✨</p>
+## 🚀 Featured Projects
+
+### [Mimikree](https://mimikree.com) - Personalized AI Assistant
+AI-driven web app that transforms user data (Social Media, PDFs, Images) into personalized AI models. Built a robust RAG pipeline with Pinecone vector database and Gemini 1.5 Pro for dynamic document retrieval and contextual AI responses. The serverless architecture reduced query latency by 40%.
+
+**Technologies:** Python, LangChain, Pinecone, Gemini API, React.js, Serverless Architecture
+
+### [Smart Gmail Assistant](https://github.com/protocorn/Smart-Gmail-Assistant) - AI-Powered Email Productivity Tool
+Chrome extension integrating Gmail with advanced AI features including email generation, context-aware replies, thread summarization, and keyword highlighting. Implemented efficient caching mechanisms to reduce API latency and optimize performance.
+
+**Technologies:** JavaScript, Chrome Extensions API, Google Prompt API, NLP, React.js
+
+### [Automatic Infographic Generation](https://github.com/protocorn/automatic-infographics-system-for-medical-paper) - Medical Research Visualization
+Led a 4-member research team developing an AI-powered system that transforms complex medical papers into digestible infographics. Reduced paper reading time by 64% using LLMs (T5 & BART) and graph-based models (TextRank). Achieved 82% accuracy in segmenting key research sections.
+
+**Technologies:** Python, NLP, T5, BART, TextRank, D3.js, Data Visualization
+
+### [Crowdfunding Web3.0](https://github.com/protocorn/Crowdfunding-web3.0) - Blockchain-Based Fundraising Platform
+Developed a decentralized crowdfunding platform using Ethereum smart contracts. Implemented secure transaction handling, campaign creation and management, and transparent fund allocation tracking.
+
+**Technologies:** Solidity, Web3.js, React.js, Ethereum, Smart Contracts, MetaMask
+
+### [Online Chatting Application](https://github.com/protocorn/Online-Chatting-Application)
+Real-time messaging platform with features including user authentication, private messaging, group chats, message encryption, and media sharing. Implemented WebSocket for instantaneous message delivery.
+
+**Technologies:** Node.js, Socket.io, MongoDB, Express.js, JWT Authentication, React.js
+
+## 📊 GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=protocorn&theme=dark)](https://git.io/streak-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=protocorn&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🎓 Education
+
+**University of Maryland, College Park**  
+Master of Professional Studies, Data Science & Analytics  
+*2023 - Present*
+
+**Vellore Institute of Technology**  
+Bachelor of Technology, Computer Science and Engineering  
+*2019 - 2023*
+
+## 📫 Connect With Me
+
+- **Email:** [chordiasahil24@gmail.com](mailto:chordiasahil24@gmail.com)
+- **LinkedIn:** [linkedin.com/in/sahil-chordia](https://www.linkedin.com/in/sahil-chordia/)
+- **Website:** [protocorn.github.io](https://protocorn.github.io/)
+- **Location:** College Park, MD
+
+![Profile Views](https://komarev.com/ghpvc/?username=protocorn&color=brightgreen)
