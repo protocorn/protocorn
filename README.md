@@ -104,9 +104,9 @@ AI/ML Engineer with hands-on experience in building and deploying large-scale AI
             <img src="https://img.shields.io/badge/Live_Demo-Visit-ff69b4?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
           </a>
           <br><br>
-          <p align="center">
-            <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250" alt="AI Assistant" />
-          </p>
+          <a href="https://youtu.be/NORujHdIocM?si=8E0PYHBEa3n8fgWo" target="_blank">
+  <img src="https://img.youtube.com/vi/NORujHdIocM/0.jpg" width="250" alt="Mimikree Demo" />
+</a>
           <p><strong>Personalized AI Assistant | Solo Project</strong></p>
           <p>
             AI-driven web application that transforms your personal data (Social Media feeds, documents, images) into customized AI models you can chat with. Features include:
@@ -143,9 +143,9 @@ AI/ML Engineer with hands-on experience in building and deploying large-scale AI
             <img src="https://img.shields.io/badge/Source_Code-GitHub-blue?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
           </a>
           <br><br>
-          <p align="center">
-            <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" alt="Email Assistant" />
-          </p>
+         <a href="https://youtu.be/OqPWf4-73D4?si=PwNalHAtTd4wmzEs" target="_blank">
+  <img src="https://img.youtube.com/vi/OqPWf4-73D4/0.jpg" width="250" alt="Mimikree Demo" />
+</a>
           <p><strong>AI-Powered Email Productivity Tool | Google Chrome Built-in AI Challenge</strong></p>
           <p>
             Chrome extension that supercharges Gmail with intelligent features to boost productivity and enhance email management:
