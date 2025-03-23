@@ -1,7 +1,7 @@
 ![Header Animation](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&height=100&lines=Hey!+I'm+Sahil+Chordia;AI+%26+Machine+Learning+Engineer;Expert+in+RAG+Pipelines+%26+LLMs;Passionate+about+GenAI+Development" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&height=100&lines=Hey!+I'm+Sahil+Chordia;AI+%26+Machine+Learning+Engineer;Expert+in+RAG+Pipelines+%26+LLMs;Passionate+about+GenAI" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
