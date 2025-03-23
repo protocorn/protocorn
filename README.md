@@ -112,21 +112,7 @@ AI/ML Engineer with hands-on experience in building and deploying large-scale AI
 
 ## <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="25"> Featured Projects
 
-<a href="https://github.com/protocorn/Mimikree---Your-own-LLM" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=protocorn&repo=Mimikree---Your-own-LLM&theme=radical" />
-</a>
 
-<a href="https://github.com/protocorn/Smart-AI-Assistant---Chrome-Extension" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=protocorn&repo=Smart-AI-Assistant---Chrome-Extension&theme=radical" />
-</a>
-
-<a href="https://github.com/protocorn/automatic-infographics-system-for-medical-paper" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=protocorn&repo=automatic-infographics-system-for-medical-paper&theme=radical" />
-</a>
-
-<a href="https://github.com/protocorn/Crowdfunding-web3.0" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=protocorn&repo=Crowdfunding-web3.0&theme=radical" />
-</a>
 
 ### Live Projects 🚀
 
