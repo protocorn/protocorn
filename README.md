@@ -112,7 +112,7 @@ AI/ML Engineer with hands-on experience in building and deploying large-scale AI
 
 ## <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="25"> Featured Projects
 
-<a href="https://mimikree.com" target="_blank">
+<a href="https://github.com/protocorn/Mimikree---Your-own-LLM" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=protocorn&repo=Mimikree---Your-own-LLM&theme=radical" />
 </a>
 
